@@ -1,0 +1,10 @@
+flask 
+flask-jsonpify 
+flask-sqlalchemy 
+flask-restful
+opentelemetry-instrumentation==0.17b0 
+opentelemetry-distro==0.17b0  
+opentelemetry-sdk==0.17b0 
+opentelemetry-api==0.17b0 
+opentelemetry-exporter-zipkin==0.17b0  
+opentelemetry-instrumentation-flask==0.17b0
